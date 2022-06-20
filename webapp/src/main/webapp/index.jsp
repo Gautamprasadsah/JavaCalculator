@@ -7,7 +7,7 @@
     <body style="text-align:center">
         <h3>Java Calculator</h3>
         <form action="Add.jsp" method="POST">
-        <table cellpadding ="10" cellspacing="10">
+        <table cellpadding ="10" cellspacing="10" style="text-align:center>
             <tr>
                 <td> <input type="radio"  name="r1" id="add" value="add" > +</td>
               
