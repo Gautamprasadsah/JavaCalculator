@@ -12,6 +12,7 @@
         
     </head>
     <body>
+        <h3 style= "align: center;">Java Calculator</h3>
         <form action="Add.jsp" method="POST">
         <table cellpadding ="10" cellspacing="10">
             <tr>
