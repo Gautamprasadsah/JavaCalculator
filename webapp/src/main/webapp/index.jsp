@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">    
     </head>
-    <body style='align:center'>
+    <body style="text-align:center">
         <h3>Java Calculator</h3>
         <form action="Add.jsp" method="POST">
         <table cellpadding ="10" cellspacing="10">
