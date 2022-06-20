@@ -12,7 +12,7 @@
 	Number 2 <input type="text" name="t2" value="${t2}"><br>
 	<input type="submit" value="Add" name="add" id="add">
 	<input type="submit" value="Subtract" name="sub" id = "sub"><br>
-	Result = ${Calc}
+	Result = ${t1}+${t2}
 	
 </form>	
 </body>
