@@ -24,5 +24,13 @@
             tot = num1 / num2;
         }
         Integer result = new  Integer(tot);
-        out.println(result.toString());    
+        out.println(result.toString());
+        
+        <form action="index.jsp" method="POST">
+        <table cellpadding ="10" cellspacing="10">           
+            <tr>          
+            <td> <input type="submit" value="Ok" > </td>
+            </tr>
+        </table>
+     </form>  
 %>
