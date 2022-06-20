@@ -12,7 +12,7 @@
         
     </head>
     <body>
-        <form action="add.jsp" method="POST">
+        <form action="Add.jsp" method="POST">
         <table cellpadding ="10" cellspacing="10">
             <tr>
                 <td> <input type="radio"  name="r1" id="add" value="add" > +</td>
