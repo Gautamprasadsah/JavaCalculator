@@ -33,11 +33,11 @@
         <title>TO DO supply a title</title>  
     </head>
     <body>
-        <form action="add.jsp" method="POST">
+        <form action="index.jsp" method="POST">
         <table cellpadding ="10" cellspacing="10">
            
         <tr>          
-            <td> <input type="submit" value="Ok" > </td>
+            <td> <input type="submit" value="Next_calculation" > </td>
             </tr>
         </table>
      </form>  
