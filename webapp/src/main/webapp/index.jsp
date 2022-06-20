@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">    
     </head>
     <body>
-        <h3>Java Calculator</h3>
+        <h3>Java_Calculator</h3>
         <form action="Add.jsp" method="POST">
         <table cellpadding ="10" cellspacing="10">
             <tr>
