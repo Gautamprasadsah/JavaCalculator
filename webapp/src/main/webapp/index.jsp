@@ -1,11 +1,11 @@
 <html>
     <head>
-        <title>My first Java Calculator</title>
+        <title>Java Calculator</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">    
     </head>
     <body>
-        <h3>My first Java_Calculator</h3>
+        <h3>Java Calculator</h3>
         <form action="Add.jsp" method="POST">
         <table cellpadding ="10" cellspacing="10">
             <tr>
